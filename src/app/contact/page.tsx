@@ -8,7 +8,7 @@ import { useFormState, useFormStatus } from "react-dom";
 import Action from "./Action";
 import { Loader, Loader2 } from "lucide-react";
 
-function page() {
+function Page() {
   const [state, dispatch] = useFormState(Action, null);
 
   return (
@@ -63,4 +63,4 @@ function DynamicButton() {
   );
 }
 
-export default page;
+export default Page;
