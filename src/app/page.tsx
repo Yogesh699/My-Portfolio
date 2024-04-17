@@ -44,9 +44,9 @@ export default function Component() {
                 <div className="flex items-center gap-2">
                   <Button
                     variant={"outline"}
-                    // onClick={() =>
-                    //   window.location.assign("https://github.com/Yogesh699")
-                    // }
+                    onClick={() =>
+                       window.location.assign("https://www.linkedin.com/in/yog-esh6991")
+                     }
                   >
                     <LinkedinIcon className="w-4 h-4 mr-2" />
                     Linkedin
