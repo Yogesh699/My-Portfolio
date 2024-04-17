@@ -16,7 +16,7 @@ function Footer() {
         >
           <Github className="w-4 h-4 " />
         </Link>
-        <Link className="text-xs hover:underline underline-offset-4" href="#">
+        <Link className="text-xs hover:underline underline-offset-4" href="https://www.linkedin.com/in/yog-esh6991">
           <LinkedinIcon className="w-4 h-4 " />
         </Link>
       </nav>
